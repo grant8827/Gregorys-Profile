@@ -68,6 +68,12 @@
  .mobileResponsive{
   display: none;
  }
+.drawerNavList li:hover{
+list-style: none;
+ }
+
+
+ /*responsive styles end*/
  
  /*home page styles start*/
  .homePage{

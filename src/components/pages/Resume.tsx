@@ -1,4 +1,5 @@
-import '../../App.css'
+import '../../App.css';
+import gregoryImage from '../../assets/gregoryImage.jpeg'
 function Resume() {
   
   return (
@@ -8,6 +9,8 @@ function Resume() {
         <div className='resumeBody'>
         
 <div className='resumeLeftSide'>
+  <img style={{width: '200px', borderRadius: '50%',}} src={gregoryImage} className='resumeImage' alt='image1' />
+  <h3 style={{ margin:'0 0 30px 0px'}}>Name: Gregory Grant</h3>
 <h3>OBJECTIVE</h3>
 <p>To obtain a software development or IT position where my
 creativity, problem-solving skills, and experience in designing
