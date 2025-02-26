@@ -1,4 +1,3 @@
-import React from 'react'
 import '../../App.css'
 import webdev from '../../assets/webpic.png';
 import netWorking from '../../assets/networking.png';
