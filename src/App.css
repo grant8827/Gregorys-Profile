@@ -295,6 +295,19 @@ list-style: none;
     animation-duration: 4s;
     animation-iteration-count: infinite;
   }
+  .resumeBody{
+    flex-direction: column;
+  }
+  .resumeLeftSide{
+    width: 80%;
+  }
+  .resumeRightSide{
+    width: 80%;
+  }
+  .homePage{
+    width: 70%;
+   
+   }
  }
  
  @media screen and (max-width: 500px) {
@@ -311,4 +324,18 @@ list-style: none;
     animation-duration: 4s;
     animation-iteration-count: infinite;
   }
+
+  .resumeBody{
+    flex-direction: column;
+  }
+  .resumeLeftSide{
+    width: 80%;
+  }
+  .resumeRightSide{
+    width: 80%;
+  }
+  .homePage{
+    width: 70%;
+   
+   }
  }
